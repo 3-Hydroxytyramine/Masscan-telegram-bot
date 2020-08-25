@@ -103,5 +103,5 @@ def scan_ssh(message):
     
 
 
-tb.polling(none_stop=True, timeout=123)
+tb.polling(none_stop=True, timeout=122)
 
